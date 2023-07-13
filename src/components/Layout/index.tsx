@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] });
 export default function Layout({ children }: { children: React.ReactNode }) {
   return (
     <div className={inter.className}>
-      <div className='shadow-md'>
+      <div className='bg-slate-50 shadow-md'>
         <nav className='container mx-auto flex items-center justify-between'>
           <div className='flex items-center justify-between'>
             <Image src={Logo} alt="Logo" width={100} height={100} />
