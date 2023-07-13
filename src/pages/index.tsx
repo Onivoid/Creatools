@@ -22,7 +22,7 @@ export default function Home() {
             <div className='flex flex-col'>
               <h2 className='text-2xl font-bold mb-2'>Favicons</h2>
               <p className=' text-slate-200'>Générez vos favicons en un clique grâce à notre outil de génération de favicons.</p>
-              <p className=' text-slate-200'>L'outil vous générera des icones en plusieurs dimmenssions :</p>
+              <p className=' text-slate-200'>L&apos;outil vous générera des icones en plusieurs dimmenssions :</p>
               <ul className=' text-slate-200 py-5 pl-5'>
                 <li>- 16x16, 32x32 et autres, pour vos icônes Web et Mobiles,</li>
                 <li>- en format .ico et .png pour toutes vos utilisations,</li>
